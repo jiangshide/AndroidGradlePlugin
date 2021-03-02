@@ -1,0 +1,3 @@
+include ':jsd'
+include ':app'
+rootProject.name = "JsdPlugin"
